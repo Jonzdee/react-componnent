@@ -1,0 +1,13 @@
+Create components for a Rotating Savings and Credit Association (ROSCA) project.
+
+When building the ROSCA system, it's important to break down the structure into logical and reusable components. Here's a step-by-step guide to help you:
+
+1. Overview of the Project
+Start by explaining the key parts of a ROSCA:
+
+A group of people contribute money into a pool regularly.
+Each member takes turns receiving the total pooled amount.
+Each of these functionalities can be broken down into smaller, manageable components within a React project.
+
+2. Break Down the Components
+Think of the UI and functionality in reusable parts. This approach will make the project easier to maintain and extend.
